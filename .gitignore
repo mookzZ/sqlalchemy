@@ -1,0 +1,5 @@
+.idea/
+books.db
+venv/
+__pycache__/
+*.pyc
